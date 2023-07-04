@@ -1,3 +1,4 @@
+![logo](https://github.com/Rathode117/Rathode117/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mayand Singh</h1>
 <h3 align="center">Passionate about leveraging technology to solve complex problems</h3>
 <img align = "right" alt = "coding" width ="400" src ="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVreXBoOTl3MHdwYWs1ZnlzOGIwZmw1cGh6cWRlemFrMWV4ZmI1bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif">
